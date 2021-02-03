@@ -54,7 +54,7 @@ Project is created with:
 To run this project, launch file main with argument that selects your map:
 
 ```
-$ python main.py 3
+$ python main.py "number_of_map"
 ```
 
 
