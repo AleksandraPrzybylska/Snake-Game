@@ -53,10 +53,8 @@ Project is created with:
 ## Setup
 To run this project, launch file main with argument that selects your map:
 
+There are 4 maps created in this repository.
+
 ```
 $ python main.py number_of_map
 ```
-
-
-
-
