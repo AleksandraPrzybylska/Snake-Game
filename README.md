@@ -1,6 +1,7 @@
 # Snake
 Planning in the game of the snake
 Snake game in Python based on https://www.edureka.co/blog/snake-game-with-pygame/
+---
 
 ## Table of contents
 * [General info](#general-info)
